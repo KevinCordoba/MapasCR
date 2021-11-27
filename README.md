@@ -1,2 +1,2 @@
 # MapasCR
-Mapas de Costa RIca
+<head>Mapas de Costa RIca<head>
